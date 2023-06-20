@@ -4,13 +4,13 @@
             "urlImagem": "assets/hamburger.png",
             "nome": "Hambúrguer",
             "descricao": "Pão D'água, hamburger de costela, queijo prato, cebola e molho especial",
-            "preco": 35.50
+            "preco": 32.50
         },
         {
             "urlImagem": "assets/pizza.png",
             "nome": "Pizza de Calabresa",
             "descricao": "Mussarela, calabresa, azeitona e orégano.",
-            "preco": 48.25
+            "preco": 45.25
         },
         {
             "urlImagem": "assets/hamburger.png",
