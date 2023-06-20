@@ -4,4 +4,4 @@
  - João Vitor Melo dos Santos - 5º SIS
  - David Gomes de Jesus - 5º TADS
  - Pedro Victor de Sousa - 5º TADS
- - Mateus Reis da Silva - 5° SIS
+ - Mateus reis da silva - 5° SIS
